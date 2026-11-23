@@ -11,7 +11,7 @@ A simple Pokémon web application built with **React + Vite** using the free [Po
 - Loading and error messages
 
 ## Live Demo
-🌐 https://zunaedafif10.github.io/Pokemon-World/](https://pokemon-app-omega-three.vercel.app/
+🌐 https://pokemon-app-omega-three.vercel.app
 
 ## Technologies
 - React
